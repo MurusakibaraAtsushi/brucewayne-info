@@ -1,0 +1,16 @@
+body{
+background-color: rgb(238, 255, 0);
+font-family: 'Kenia';
+}
+h1 {
+    font-family: 'Segeo UI', Tahoma, Geneva, Verdana, sans-serif;
+}    
+p {
+    background-color:rgba(9, 116, 179, 0.822):
+}
+h2 { background-color:blue;
+
+}
+img {
+    border: 1px solid black
+}
